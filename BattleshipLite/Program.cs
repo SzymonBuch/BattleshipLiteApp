@@ -141,7 +141,7 @@ namespace BattleshipLite
         private static void WelcomeMessage()
         {
             Console.WriteLine("Welcome to Battleship Lite");
-            Console.WriteLine("created by Szymon Brzuch");
+            Console.WriteLine("created by Szymon Buch");
             Console.WriteLine();
         }
 
